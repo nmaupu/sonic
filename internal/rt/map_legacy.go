@@ -1,4 +1,5 @@
-// +build !go1.24
+//go:build !go1.26
+// +build !go1.26
 
 package rt
 
